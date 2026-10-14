@@ -1,29 +1,27 @@
 # Emre Aslan
 
-Staff-level Software Engineer with 10+ years of experience building and modernizing enterprise software platforms.
+Software engineer from Düsseldorf. I've been building software professionally since 2014, with most of my work centered around **Java/Kotlin**, **TypeScript** and enterprise systems.
 
-I work best on ambiguous technical problems that span architecture, product requirements and operational constraints — from understanding the problem to designing the system and shipping the implementation.
+A recurring theme throughout my career has been modernization. Not greenfield rewrites, but systems with history, dependencies and users who cannot simply stop working while everything is rebuilt. I enjoy untangling those constraints, deciding which parts are worth preserving, and finding a path forward that is technically sound without becoming needlessly disruptive.
 
-## Engineering Focus
+*The part I enjoy most often starts before the implementation, when the problem is still ambiguous and the right shape of the system has yet to emerge.*
 
-- Platform architecture & modernization
-- Hybrid cloud / on-premise systems
-- Enterprise integration & distributed systems
-- Java / Kotlin / Spring
-- TypeScript / Angular
-- GCP, Kubernetes & Docker
-- CI/CD & developer tooling
-- Legacy modernization
-- End-to-end technical ownership
+I've worked across automotive, energy, construction, public-sector and B2B software, usually in environments where understanding the domain matters just as much as understanding the technology.
 
-## Selected Work
+## Areas I've worked in
 
-- Designed hybrid cloud/on-premise architecture for a mature automotive software platform, enabling centrally delivered cloud applications to securely interact with distributed customer installations.
-- Built reusable platform capabilities around software delivery, release/version management and modern web applications.
-- Independently designed and built a vertical B2B product across architecture, backend, frontend, infrastructure and operational workflows.
+- hybrid cloud and on-prem environments
+- software delivery, release management and versioning
+- Java/Kotlin backend systems
+- Angular and TypeScript frontends
+- GCP, Kubernetes and Docker
+- enterprise integrations and legacy modernization
+- product development from an early concept through to a working system
 
-## GitHub
+In the automotive sector, much of my work focused on connecting a long-running dealership management ecosystem with newer cloud applications. This included software delivery and version management, as well as an architecture in which customer installations established outbound connections rather than exposing internal networks to incoming traffic.
 
-Most of my production engineering work has been developed in private company and client repositories or in environments outside GitHub.
+More recently, I have been building a construction management platform. The project started with a broad idea rather than a detailed specification, which meant learning the domain first and then translating real workflows into a technical design. I ended up working across backend, frontend, infrastructure and the product itself.
 
-Public activity here therefore represents only a small part of my professional work.
+I still enjoy writing code and prefer staying close to the implementation. At the same time, I tend to gravitate towards problems involving architecture, awkward system boundaries, legacy constraints and decisions where there is no obviously correct answer.
+
+Most of my production work lives in private company and client repositories, so this profile only represents a small part of the code I've written professionally.
